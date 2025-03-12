@@ -1,1 +1,2 @@
-# A Login & Sign Up Form using React JS
+# A Login & Sign Up Form
+A Login & Sign Up Form using React JS
